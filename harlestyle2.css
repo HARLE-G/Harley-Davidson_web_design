@@ -1,0 +1,473 @@
+body{
+    
+    text-transform: capitalize;
+}
+
+.a{
+    
+        color: hwb(16 0% 0%);
+        background-color: black;
+        font-size: 30px;
+        position: relative;
+        font-weight: 900;
+        z-index: 1;
+        overflow: hidden;
+        text-shadow: 0px 0px 0px rgb(139, 42, 0);
+        justify-content: flex-end;
+}
+h1::before{
+
+    content: '';
+    position:absolute;
+    width: 120%;
+    height: 100%;
+    background: linear-gradient(90deg,transparent 0%,$0);
+}
+h1 span{
+    color:rgb(139, 42, 0);
+}       
+
+
+.dav{  
+    padding-right: 30px;
+    margin-right: 100px;
+}        
+
+.a1 .photo{
+    float: left;
+    margin-top: 0px;
+    position: relative;
+    
+}
+.a1 #nav a{
+    float: right;
+    display: inline;
+    width: 160px;
+    text-decoration: none;
+    position: relative;
+    top: -50%; 
+    translate: -10px -1230px;
+    color: #fff;
+    font-weight: 200px;
+    font-size: 30px;
+}
+.a1 #nav :hover{
+    color:orangered;
+}
+
+
+.a2{
+     background-size: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-color: black;
+    
+}
+.a3{
+    font-weight: 900px;
+    text-align: center;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+
+    /* text-transform: uppercase;
+    background-image: linear-gradient(-225,deg,
+    #231557 0%
+    #44107a 29%
+    #ff1361 67%
+    #fff800 100%
+);
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: rgb(11, 243, 228);
+    background-clip: text;
+    text-fill-color:transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+}
+    @keyframes textclip{
+    to{
+       background-position: 200% center;
+    } */}
+.a3 h1:hover{
+    color: rgb(27, 0, 235);
+    transition-duration: 3s;
+}
+.a3 h1:hover{
+    background-color:#02ffaf;
+
+}
+.a4{
+    text-align: center;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-weight: 5px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.a5{
+    background-image: url(https://i.gifer.com/origin/ef/ef5779850c4161161372bbffdb050f0a.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.a5 .rupendra{
+    
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    color:#fff;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+
+.a5 .img1 ::after{
+    content:"2";
+    display: table;
+    clear: both;
+}
+.a5 .img2{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    color:#fff;
+    margin-left: 375px;
+    margin-right: 375px;
+    padding-bottom: 60px;
+}
+.a6{
+    position: relative;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.a6 .head{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    color: #fff;
+    background-image: url(https://media4.giphy.com/media/cHcdcVJ0hppOL0Lamo/giphy.webp?cid=790b7611no704gw3i6ohnl76p6i355ag3tfy5pu3s78quo0k&ep=v1_gifs_search&rid=giphy.webp&ct=g);
+    margin-top: -450px;
+    margin-left: 175px;
+    font-size: 20px;
+}
+
+
+.a7{
+    background-image: url(https://i.gifer.com/7tD0.gif);
+    background-size: 100%;
+}
+.a7 h2{
+    
+    color: #fff;
+    margin-top: -450px;
+    background-color: black;
+    translate: 246px  95px;
+}
+.a7{
+     margin-top: 840px;
+     @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Raleway:wght@300&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    
+}
+.a7 .images{
+    position: relative;
+    margin-top: 70px;
+}
+
+.a8{
+    background-color: lightgray;
+    height: 100%;
+    width: 100%;
+    margin-top: -20px;
+    background-size:100%;
+	padding-bottom:600px;
+}
+
+.a8 .celebrate{
+    position: relative;
+    top: 5%;
+    margin-left: 30px; 
+}
+.a8 .fes{
+    float: right;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&display=swap');
+    font-family: 'Anton', sans-serif;
+    margin-right: 60px;
+    margin-left: 60%;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-top: -20%;
+}
+.a8 #event{
+    float: right;
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-weight: 40px;
+    color: rgb(245, 118, 34);
+    margin-right: 29%;
+    text-decoration:none;
+}
+.a8 #event :hover{
+    background-color:red !important;
+}
+.a8 .set {
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 5%;
+    font-weight: 1000px;
+    text-transform:none;
+}
+.a8 .set h2:hover{
+    color: rgb(232, 21, 21);
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in-out;
+}
+
+.cover{
+    display: flex;
+}
+.image{
+    margin:30px 30px; 
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-bottom: 5%;
+    background:rgb(255, 77, 0);
+    text-align: center;
+    box-shadow: 5px 3px 10px black;
+}
+.cover .image .see:hover {
+    transition-duration: 2s;
+    color: rgb(0, 255, 13);
+    transition-timing-function: ease-in-out;
+}
+.a9 .apparel{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&family=Secular+One&display=swap');
+    font-family: 'Anton', sans-serif;
+    margin-left: 100px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.a9 .in{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.a9 #m{
+    background: red;
+    color: black;
+    border-radius: 10px;
+    padding: 10px 10px;
+    box-shadow: 5px 3px 10px  #ff5900;
+}
+.a9 #m:hover{
+    transition-duration: 2s;
+    background-color: rgb(9, 255, 230);
+    box-shadow: 5px 3px 10px  hsl(260, 100%, 74%);
+} 
+.a9 #w{
+    background: red;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 10px 10px;
+    box-shadow: 5px 3px 10px rgb(0, 255, 13);
+}
+.a9 #w:hover{
+    transition-duration: 2s;
+    background-color: rgba(86, 255, 7, 0.95);
+    box-shadow: 5px 3px 10px  hsl(304, 96%, 43%);
+} 
+
+.a9{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 3%;
+    background: linear-gradient(red,blue);
+}
+.a10{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-weight: 900;
+    margin-left: 110px;
+}
+.a10 .arrival{
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-around;    
+}
+.a10 .news{
+    display: flex;
+    justify-content: space-around;
+    margin-right:70px;
+}
+.a11{
+    background-image:url(https://giffiles.alphacoders.com/144/14466.gif);
+    padding:10px 0px;
+    
+}
+.a11 .am{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&display=swap');
+    font-family: 'Anton', sans-serif;
+    color:#fff;
+    margin-left:80px;
+    font-size:18px;
+    display:flex;
+    justify-content:space-around;
+}
+.a11 .am .amm{
+    margin-top:40px;
+    font-size:17px;
+}
+.a11 .am #ammm{
+    margin-top:40px;
+    background-color:orangered;
+    padding:17px 10px;
+    font-variant:small-caps;
+    text-transform:uppercase;
+}
+.a12{
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size:20px;
+    font-weight:100%;
+    margin-left:80px;
+}
+.a13{
+    display: flex;
+}
+.on{
+    margin:30px 30px; 
+    @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&family=Oswald:wght@500&display=swap');
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top:0%;
+    background:#00FFFF ;
+    text-align: center;
+    
+}
+.on:hover{
+    box-shadow: 5px 3px 10px black;
+    transition-duration: 2s;
+    padding:10px 10px;
+    transition-timing-function: ease-in;
+    background:linear-gradient(#5EE500,#FF3333,#0058C1)
+}
+.a13 .on .se:hover {
+    transition-duration: 2s;
+    color: #04FF00 ;
+    transition-timing-function: ease-in-out;
+}
+
+.customer{
+    background-image: url(https://assets.materialup.com/uploads/1d9aa2a1-0ed6-4f2b-98ef-710a9e6a804d/preview.gif);
+    height: 100%;
+    width: 100%;
+    padding:220px 10px;
+    background-size:100%;
+    background-position:fixed;
+    padding-top:1px;
+}
+.customer .support{
+    color:white;
+    font-size:50px;
+    text-align:center;
+    margin-top:25px;
+}
+.customer #x{
+    margin-left:90px;
+    margin-right:90px;
+}
+.customer .cs .row{
+    display: flex;
+    color:#fff;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.customer .cs .row .footer-col ul li{
+    transition: all 0.3s ease !important;
+}
+
+.customer .cs .row .footer-col ul li:hover{
+    padding-left: 10px !important;
+    color: #ff6200;
+}
+.customer .sitemap{
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    justify-content: space-around;
+    word-spacing: 10px;
+}
+.all .ips{
+    color:grey;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 35%;
+    margin-right: 20%;
+    margin-top: -60px;
+    text-align: justify;
+}
+.all #india{
+    height: 40;
+    width: 300;
+    margin-left: 10%;
+    display: flex;
+    background: transparent;
+    border: 1px solid #ff7200;
+    border-radius: 50px 50px 50px 50px;
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
